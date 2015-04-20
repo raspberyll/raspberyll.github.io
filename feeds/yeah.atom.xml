@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Raspberyl</title><link href="http://www.raspberyl.org/" rel="alternate"></link><link href="http://www.raspberyl.org/feeds/yeah.atom.xml" rel="self"></link><id>http://www.raspberyl.org/</id><updated>2010-10-04T18:40:00+02:00</updated><entry><title>My super title</title><link href="http://www.raspberyl.org/my-super-post.html" rel="alternate"></link><updated>2010-10-04T18:40:00+02:00</updated><author><name>Alexis Metaireau</name></author><id>tag:www.raspberyl.org,2010-10-03:my-super-post.html</id><summary type="html">&lt;p&gt;Blah
-Blah&lt;/p&gt;
-</summary><category term="thats"></category><category term="awesome"></category></entry></feed>
